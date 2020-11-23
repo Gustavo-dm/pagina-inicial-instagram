@@ -5,4 +5,4 @@ Esse é o repositório da  aula de Flexbox para prática de CSS.
 *[Gustavo de Moraes](https://www.linkedin.com/in/gustavo-moraes-8464451ab/)
 
 
-## 🚀 Let's code! 🚀
+## 🚀 Decola Dev Avanade 2021! 🚀

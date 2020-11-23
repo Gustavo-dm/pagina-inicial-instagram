@@ -1,4 +1,4 @@
-# Página inicial Instagram 🙃
+# Página inicial Instagram 
 
 Esse é o repositório da  aula de Flexbox para prática de CSS. 
 ### Autor:
